@@ -1,10 +1,13 @@
 Package: getdata
-Title: What the Package Does (One Line, Title Case)
+Title: Helper functions for MATH70076 2023-24 CourseWork 1
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person(
+    given = c("C","W"), 
+    family = "T",
+    email = "tt2023@ic.ac.uk", 
+    role = c("aut", "cre"))
+Description: Extract information from a dataset.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
